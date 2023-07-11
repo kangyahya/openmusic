@@ -1,0 +1,23 @@
+{
+  "name": "openmusic-api",
+  "version": "1.0.0",
+  "description": "OpenMusic Api Merupakan Submission 1 dari kelas backend di platform dicodingacademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangyahya/openmusic.git"
+  },
+  "keywords": [
+    "openmusic",
+    "api"
+  ],
+  "author": "Moh. Yahya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangyahya/openmusic/issues"
+  },
+  "homepage": "https://github.com/kangyahya/openmusic#readme"
+}
